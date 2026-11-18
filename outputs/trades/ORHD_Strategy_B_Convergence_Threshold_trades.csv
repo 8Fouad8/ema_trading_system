@@ -1,0 +1,6 @@
+trade_id,ticker,strategy,entry_date,entry_price,entry_reason,exit_date,exit_price,exit_reason,shares,entry_cost,exit_proceeds,total_commission,net_pnl,return_pct,duration_days,is_open
+1,ORHD,Strategy_B_Convergence_Threshold,2024-12-02,15.8158,Bullish EMA Crossover (Fast > Slow),2025-06-15,22.6873,Distance Convergence Exit: spread 0.21 <= 10% of peak 2.29,6313,99994.91,143010.02,364.61,43015.1,43.0173,195,False
+2,ORHD,Strategy_B_Convergence_Threshold,2025-08-04,22.5225,Bullish EMA Crossover (Fast > Slow),2025-09-14,21.9281,Distance Convergence Exit: spread 0.02 <= 10% of peak 0.50,6340,143006.84,138815.31,422.72,-4191.53,-2.931,41,False
+3,ORHD,Strategy_B_Convergence_Threshold,2025-10-20,22.983,Bullish EMA Crossover (Fast > Slow),2026-01-11,23.2767,Distance Convergence Exit: spread 0.05 <= 10% of peak 1.24,6031,138818.14,140171.2,418.49,1353.06,0.9747,83,False
+4,ORHD,Strategy_B_Convergence_Threshold,2026-02-12,26.1061,Bullish EMA Crossover (Fast > Slow),2026-03-31,24.2757,Distance Convergence Exit: spread 0.07 <= 10% of peak 0.71,5361,140164.63,129946.81,405.15,-10217.82,-7.2899,47,False
+5,ORHD,Strategy_B_Convergence_Threshold,2026-04-09,26.1261,Bullish EMA Crossover (Fast > Slow),2026-09-29,11.9737,Bearish EMA Crossover (Fast < Slow),4966,129936.83,59372.21,283.81,-70564.61,-54.3069,173,False

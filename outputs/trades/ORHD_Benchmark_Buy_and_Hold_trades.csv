@@ -1,0 +1,2 @@
+trade_id,ticker,strategy,entry_date,entry_price,entry_reason,exit_date,exit_price,exit_reason,shares,entry_cost,exit_proceeds,total_commission,net_pnl,return_pct,duration_days,is_open
+1,ORHD,Benchmark_Buy_and_Hold,2024-11-18,15.015,Buy & Hold Initial Entry,2026-11-12,10.2697,End of Backtest Horizon Liquidation,6650,99999.52,68191.2,252.22,-31808.33,-31.8085,724,False

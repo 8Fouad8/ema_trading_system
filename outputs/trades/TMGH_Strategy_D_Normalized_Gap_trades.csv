@@ -1,0 +1,6 @@
+trade_id,ticker,strategy,entry_date,entry_price,entry_reason,exit_date,exit_price,exit_reason,shares,entry_cost,exit_proceeds,total_commission,net_pnl,return_pct,duration_days,is_open
+1,TMGH,Strategy_D_Normalized_Gap,2025-05-15,52.9829,Bullish EMA Crossover (Fast > Slow),2025-05-22,50.949,Normalized Gap Exit: gap 0.04% <= 0.10%,1884,99969.57,95843.93,293.71,-4125.64,-4.1269,7,False
+2,TMGH,Strategy_D_Normalized_Gap,2025-05-28,53.9539,Bullish EMA Crossover (Fast > Slow),2025-08-04,53.2467,Normalized Gap Exit: gap 0.08% <= 0.10%,1774,95857.79,94317.95,285.26,-1539.84,-1.6064,68,False
+3,TMGH,Strategy_D_Normalized_Gap,2025-08-11,56.8468,Bullish EMA Crossover (Fast > Slow),2025-09-08,52.5574,Bearish EMA Crossover (Fast < Slow),1656,94279.49,86904.49,271.76,-7375.01,-7.8225,28,False
+4,TMGH,Strategy_D_Normalized_Gap,2025-09-29,55.6656,Bullish EMA Crossover (Fast > Slow),2026-03-16,76.6233,Normalized Gap Exit: gap 0.01% <= 0.10%,1559,86912.86,119276.54,309.36,32363.68,37.2369,168,False
+5,TMGH,Strategy_D_Normalized_Gap,2026-04-19,86.5865,Bullish EMA Crossover (Fast > Slow),2026-09-20,95.7042,Normalized Gap Exit: gap 0.09% <= 0.10%,1376,119321.74,131491.45,376.25,12169.71,10.1991,154,False

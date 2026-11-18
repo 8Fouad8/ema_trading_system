@@ -1,0 +1,2 @@
+trade_id,ticker,strategy,entry_date,entry_price,entry_reason,exit_date,exit_price,exit_reason,shares,entry_cost,exit_proceeds,total_commission,net_pnl,return_pct,duration_days,is_open
+1,TMGH,Benchmark_Buy_and_Hold,2024-11-18,60.7607,Buy & Hold Initial Entry,2026-11-12,83.866,End of Backtest Horizon Liquidation,1643,99979.58,137585.23,356.43,37605.65,37.6133,724,False

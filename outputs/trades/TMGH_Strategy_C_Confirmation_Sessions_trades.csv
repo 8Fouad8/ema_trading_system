@@ -1,0 +1,6 @@
+trade_id,ticker,strategy,entry_date,entry_price,entry_reason,exit_date,exit_price,exit_reason,shares,entry_cost,exit_proceeds,total_commission,net_pnl,return_pct,duration_days,is_open
+1,TMGH,Strategy_C_Confirmation_Sessions,2025-05-15,52.9829,Bullish EMA Crossover (Fast > Slow),2025-05-21,51.5484,Momentum Decline Exit: EMA fast declined for 2 consecutive sessions,1884,99969.57,96971.51,295.41,-2998.06,-2.999,6,False
+2,TMGH,Strategy_C_Confirmation_Sessions,2025-05-28,53.9539,Bullish EMA Crossover (Fast > Slow),2025-06-17,53.8561,Momentum Decline Exit: EMA fast declined for 2 consecutive sessions,1795,96992.52,96526.67,290.28,-465.85,-0.4803,20,False
+3,TMGH,Strategy_C_Confirmation_Sessions,2025-08-11,56.8468,Bullish EMA Crossover (Fast > Slow),2025-08-27,53.8461,Momentum Decline Exit: EMA fast declined for 2 consecutive sessions,1695,96499.84,91132.24,281.44,-5367.61,-5.5623,16,False
+4,TMGH,Strategy_C_Confirmation_Sessions,2025-09-29,55.6656,Bullish EMA Crossover (Fast > Slow),2025-10-26,56.3736,Momentum Decline Exit: EMA fast declined for 2 consecutive sessions,1635,91149.79,92032.53,274.78,882.74,0.9684,27,False
+5,TMGH,Strategy_C_Confirmation_Sessions,2026-04-19,86.5865,Bullish EMA Crossover (Fast > Slow),2026-06-11,94.2656,Momentum Decline Exit: EMA fast declined for 2 consecutive sessions,1061,92006.08,99865.82,287.83,7859.74,8.5426,53,False

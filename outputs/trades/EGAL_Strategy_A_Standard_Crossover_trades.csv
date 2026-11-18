@@ -1,0 +1,6 @@
+trade_id,ticker,strategy,entry_date,entry_price,entry_reason,exit_date,exit_price,exit_reason,shares,entry_cost,exit_proceeds,total_commission,net_pnl,return_pct,duration_days,is_open
+1,EGAL,Strategy_A_Standard_Crossover,2024-12-09,119.2992,Bullish EMA Crossover (Fast > Slow),2025-05-21,149.85,Bearish EMA Crossover (Fast < Slow),836,99883.72,125086.69,337.51,25202.97,25.2323,163,False
+2,EGAL,Strategy_A_Standard_Crossover,2025-06-15,167.7176,Bullish EMA Crossover (Fast > Slow),2025-06-18,156.843,Bearish EMA Crossover (Fast < Slow),745,125137.0,116672.76,362.7,-8464.24,-6.764,3,False
+3,EGAL,Strategy_A_Standard_Crossover,2025-07-09,167.147,Bullish EMA Crossover (Fast > Slow),2025-08-25,158.9409,Bearish EMA Crossover (Fast < Slow),697,116676.19,110615.64,340.92,-6060.56,-5.1943,47,False
+4,EGAL,Strategy_A_Standard_Crossover,2025-10-14,175.3752,Bullish EMA Crossover (Fast > Slow),2026-06-29,276.723,Bearish EMA Crossover (Fast < Slow),630,110652.1,174073.99,427.23,63421.88,57.3165,258,False
+5,EGAL,Strategy_A_Standard_Crossover,2026-08-12,330.31,Bullish EMA Crossover (Fast > Slow),2026-10-18,304.725,Bearish EMA Crossover (Fast < Slow),526,174003.67,160044.91,501.04,-13958.76,-8.0221,67,False

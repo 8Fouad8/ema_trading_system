@@ -1,0 +1,6 @@
+trade_id,ticker,strategy,entry_date,entry_price,entry_reason,exit_date,exit_price,exit_reason,shares,entry_cost,exit_proceeds,total_commission,net_pnl,return_pct,duration_days,is_open
+1,EGAL,Strategy_C_Confirmation_Sessions,2024-12-09,119.2992,Bullish EMA Crossover (Fast > Slow),2025-01-02,115.3445,Momentum Decline Exit: EMA fast declined for 2 consecutive sessions,836,99883.72,96283.39,294.24,-3600.32,-3.6045,24,False
+2,EGAL,Strategy_C_Confirmation_Sessions,2025-06-15,167.7176,Bullish EMA Crossover (Fast > Slow),2025-06-17,158.841,Momentum Decline Exit: EMA fast declined for 2 consecutive sessions,573,96246.31,90879.37,280.68,-5366.94,-5.5763,2,False
+3,EGAL,Strategy_C_Confirmation_Sessions,2025-07-09,167.147,Bullish EMA Crossover (Fast > Slow),2025-07-31,165.854,Momentum Decline Exit: EMA fast declined for 2 consecutive sessions,543,90896.95,89923.63,271.23,-973.32,-1.0708,22,False
+4,EGAL,Strategy_C_Confirmation_Sessions,2025-10-14,175.3752,Bullish EMA Crossover (Fast > Slow),2025-11-20,196.4633,Momentum Decline Exit: EMA fast declined for 2 consecutive sessions,512,89926.79,100438.35,285.57,10511.56,11.689,37,False
+5,EGAL,Strategy_C_Confirmation_Sessions,2026-08-12,330.31,Bullish EMA Crossover (Fast > Slow),2026-09-27,356.603,Momentum Decline Exit: EMA fast declined for 2 consecutive sessions,304,100564.86,108244.71,313.23,7679.85,7.6367,46,False
